@@ -1,7 +1,7 @@
 # Snap-Porn
 A Tweak for Android Snapchat [XPOSED BASED]
 
-[Logo](https://i.vgy.me/wLfPni.png)
+![Logo](https://i.vgy.me/wLfPni.png)
 
 [Includes]
 + ScreenShot Bypass
